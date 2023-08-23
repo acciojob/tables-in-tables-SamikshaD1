@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#ht{
+	background-color:black;
+	color:white;
+	text-align:center;
+	}
+table{
+	width:100%;
+	height:100%;
+}
